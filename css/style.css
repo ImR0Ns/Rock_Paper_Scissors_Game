@@ -1,0 +1,22 @@
+.center_div {
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+i {
+  cursor: pointer;
+  color: gray
+}
+.score {
+  margin-top: 150px;
+}
+.container-center {
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+    padding: 30px;
+}
+
